@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57798424844",
+    "project_id": "tawasl-app-55ca7",
+    "storage_bucket": "tawasl-app-55ca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57798424844:android:21d93b6ba4d9dd58e37129",
+        "android_client_info": {
+          "package_name": "com.Apex.tawasl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmLkalzMoaNdOXOCYeF2He2oal6FikCVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
